@@ -1,20 +1,24 @@
 {
-  "id": "serumtech",
-  "name": "SerumTech",
-  "categoryId": "governance",
-  "description": "Customer-focused fault-tolerant alliance",
-  "investment_24m": "440",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "43",
-  "status_color": "#FFFF00",
-  "type": "OffShelf",
-  "support_cost": "350",
-  "deployment_date": "3/8/12",
-  "end_of_maintenance": "26/3/17",
-  "department": "Sales",
-  "status": "Sunsetting",
-  "end_of_life": "18/12/19",
-  "months_to_renew_support": "4",
-  "sme_email": "Kerwin.Peetermann@memento.net.au",
-  "investment_number": "47"
+  "applications": [
+    {
+      "id": "serumtech",
+      "name": "SerumTech",
+      "categoryId": "governance",
+      "description": "Customer-focused fault-tolerant alliance",
+      "investment_24m": "440",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "43",
+      "status_color": "#FFFF00",
+      "type": "OffShelf",
+      "support_cost": "350",
+      "deployment_date": "3/8/12",
+      "end_of_maintenance": "26/3/17",
+      "department": "Sales",
+      "status": "Sunsetting",
+      "end_of_life": "18/12/19",
+      "months_to_renew_support": "4",
+      "sme_email": "Kerwin.Peetermann@memento.net.au",
+      "investment_number": "47"
+    }
+  ]
 }
